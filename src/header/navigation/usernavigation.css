@@ -1,0 +1,28 @@
+.notification {
+    width: 40px;
+    height: 20px;
+    position: relative;
+}
+
+.badge {
+    position: absolute;
+    top: -35px;
+    left: 12px;
+}
+
+.badgeCircle {
+    position: absolute;
+    top: 2px;
+    left: 5px;
+    font-size:large;
+}
+
+.iconSize {
+    font-size:16px;
+    color:#777;
+}
+
+.iconBigSize {
+    font-size:20px;
+    color:#777;
+}

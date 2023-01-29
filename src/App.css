@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: local('Open Sans'), url(./assets/OpenSans-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Parisienne';
+    src: local('Parisienne'), url(./assets/Parisienne-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Raleway';
+    src: local('Raleway'), url(./assets/Raleway-Regular.ttf) format('truetype');
+}
+
+.bigHeadingCursive {
+    font-family: 'Parisienne', sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}

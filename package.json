@@ -11,9 +11,11 @@
     "@types/node": "^16.18.11",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
+    "bootstrap": "^4.3.1",
     "fontawesome-free": "^1.0.4",
     "fortawesome": "^0.0.1-security",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.4",
@@ -44,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
     "eslint-config-react-app": "^7.0.1",
     "jest-editor-support": "^31.0.1"
   }
